@@ -24,9 +24,9 @@ conda create -n <environment-name> --file requirements.txt
 to make the correct enivronment in conda
 
 ## Codes
-Main.ipynb
-```
-main codes for parallelization, fine tuning and custom mutation algorithm (better run on a CPU cluster with memory > 100G) </li>
-```
+
+
+<li>Main.ipynb: parallelization, fine tuning and custom mutation algorithm</li> 
+(better run on a CPU cluster with memory > 100G)
 
 
