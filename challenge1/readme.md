@@ -28,5 +28,7 @@ to make the correct enivronment in conda
 
 <li>Main.ipynb: parallelization, fine tuning and custom mutation algorithm</li> 
 (better run on a CPU cluster with memory > 100G)
+<li>Param.ipynb: visualization of parameterization results</li> 
+<li>Results.ipynb: visualization of final scores and mechanisms</li> 
 
 
