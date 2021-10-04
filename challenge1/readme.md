@@ -25,7 +25,7 @@ to make the correct enivronment in conda
 
 ## Codes
 <ul>
-<li>Main.ipynb: main codes for parallelization, fine tuning and custom mutation algorithm (better run on a CPU cluster with memory > 100G) </li>
+<li>Main.ipynb --- main codes for parallelization, fine tuning and custom mutation algorithm (better run on a CPU cluster with memory > 100G) </li>
 
 
 
